@@ -12,6 +12,11 @@ The goal is simple:
 
 This package also includes a dedicated `Reload Nodes` UI entry through ComfyUI-Manager so the reload flow is easy to use from the top toolbar.
 
+## Tested and Compatible On
+ComfyUI Version: v0.33.1
+Commit: 72865f4f27eaf5396f8f36370e0a2be3a9a090ee
+Commit date: August 13, 2026
+
 ## What This Project Includes
 
 ### Core ComfyUI changes
